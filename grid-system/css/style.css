@@ -1,0 +1,144 @@
+header{
+	padding: 15px 0px;
+	margin:0;
+	color:#fff;
+	border-bottom: solid #333 10px ;
+	background:#333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+
+}
+nav ul{
+	list-style-type: none;
+	padding-top:34px;
+	margin: 0px -15px 0px 0px;
+	float: right;
+	font-size:14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+nav li:hover a{
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow:2px 2px 4px #000;
+}
+nav a:hover{
+	color:#fff;
+}
+/* seccion 1 */
+.uno {
+	background-color: #ccc; 
+	padding-bottom: 25px;
+	border-bottom: 2px solid grey;
+}
+
+.img-big {
+	width: 200px;
+	height: 200px;
+	border: 3px ridge white;
+}
+h4{
+	text-align: center;
+	color: #4c8ffc;
+	font-family: Arial;
+}
+.col-2 h4 {
+	font-size: 11px;
+}
+a {
+	text-decoration: none;
+	color: #4c8ffc;
+}
+h2{
+	font-family: Verdana;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h2 a{
+	font-size: 11px;
+	font-family: Verdana;
+	color: blue;
+}
+.img-small {
+    margin-top: 25px;
+    height: 90px;
+    width: 92px;
+    border: 3px ridge white;
+}
+h6 {
+	text-align: center;
+	color: #4c8ffc;
+	font-family: Arial;
+}
+
+/* col-3 side */
+
+.col-3 .side {
+		padding: 25px;
+		font-family: Arial;
+		font-size: 12px;
+}
+.row .side {
+		margin-bottom: 20px;
+}
+h3 {
+	font-family: Arial;
+	font-size: 13px;
+	color: #555;
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 15px;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	padding-bottom: 7px;
+}
+
+/*footer*/
+
+footer {
+	padding: 20px 0 20px 0;
+	margin-top: 50px;
+	background: #585858;
+	font-family: Verdana;
+
+}
+footer p {
+	margin-bottom: 25px;
+	font-family: Arial;
+}
+.text {
+	color: white;
+	font-size: 15px;
+}
+.tipomenu	{
+		text-align: center;
+}
+.tipomenu a {
+	margin-right: 10px;	
+	text-decoration: none;
+	color: #ccc;
+	font-size: 13px;
+}
+a:hover {
+	color: #BA0101;
+}
+.autor {
+	font-size: 11px;
+	text-align: center;
+	color: #999;
+}
